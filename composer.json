@@ -1,5 +1,11 @@
 {
   "name": "endertech/mage-test",
   "type": "magento-module",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "extra": {
+    "map": [
+            ["app", "magento/app"],
+            ["skin", "magento/skin"]
+        ]
+  }
 }
