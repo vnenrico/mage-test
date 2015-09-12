@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "extra": {
     "map": [
-            ["app", "magento/app"],
-            ["skin", "magento/skin"]
+            ["app", "app"],
+            ["skin", "skin"]
         ]
   }
 }
